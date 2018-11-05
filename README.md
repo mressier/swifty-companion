@@ -1,4 +1,4 @@
-# swifty-companion
+# Swifty companion
 Fait en Novembre 2017
 
 ## Projet 42 - Créer une interface pour les profils des etudiants
